@@ -1,0 +1,16 @@
+Subject: You can pick a different subject line if you like
+
+I felt like using the Lorum Ipsum Generator thing but I decided
+against it since:
+    (a) I don't like reading gibberish
+    (b) the lines get too long for no reason and
+    (c) It's nicer to type out some silly text
+.
+You're not allowed to change this body text btw. So that dot on line 8? Yeah that can be a problem.
+.Starting a line with a dot can also be a problem. Luckily, I was nice enough to point this out in...
+
+...the lab manual so that you can look into it.
+Enjoy.
+
+Best,
+Ahmad
